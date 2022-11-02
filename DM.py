@@ -1,10 +1,15 @@
 #   ಠ   #
 
+    #Constantes
+    
+reponse = "O"
 
-#Variables 
+
+    #Variables 
+    
 n = int(input('Veuillez rentrer la valeur de n : '))
 x = 0.7
-reponse = "O"
+
 
 #Programme
 
