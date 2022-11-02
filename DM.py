@@ -11,7 +11,7 @@ n = int(input('Veuillez rentrer la valeur de n : '))
 x = 0.7
 
 
-#Programme
+    #Programme
 
 while reponse == "O" :
     
