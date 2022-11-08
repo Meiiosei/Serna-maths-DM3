@@ -1,3 +1,7 @@
+#   ಠ   #
+
+    #Constantes
+    
 reponse = "O"
 
 
@@ -29,8 +33,3 @@ while reponse == "O" :
         n = int(input('Veuillez rentrer la valeur de n : '))
     else :
         break
-
-
-
-
-
